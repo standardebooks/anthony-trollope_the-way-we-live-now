@@ -60,3 +60,7 @@ p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
 }
+
+[epub|type~="se:letter.dateline"] + p{
+	text-indent: 0;
+}
