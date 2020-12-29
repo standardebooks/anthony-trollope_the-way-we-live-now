@@ -10,10 +10,6 @@ footer{
 	margin-top: 1em;
 }
 
-footer + p{
-	text-indent: 0;
-}
-
 [epub|type~="se:letter.dateline"]{
 	margin-top: 1em;
 	text-align: right;
@@ -62,5 +58,10 @@ p span.i1{
 }
 
 [epub|type~="se:letter.dateline"] + p{
+	text-indent: 0;
+}
+
+p[epub|type~="z3998:signature"] + p{
+	text-align: left;
 	text-indent: 0;
 }
