@@ -70,12 +70,12 @@
 		<dc:creator id="author">Anthony Trollope</dc:creator>
 		<meta property="file-as" refines="#author">Trollope, Anthony</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anthony_Trollope</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n78089077</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78089077</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Jan Van Beers</dc:contributor>
 		<meta property="file-as" refines="#artist">Van Beers, Jan</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jan_van_Beers</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/no2010045718</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/no2010045718</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Andrew Turek</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Turek, Andrew</meta>
