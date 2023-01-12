@@ -62,7 +62,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/5231</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012348630</dc:source>
-		<meta property="se:word-count">358139</meta>
+		<meta property="se:word-count">358140</meta>
 		<meta property="se:reading-ease.flesch">72.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Way_We_Live_Now</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anthony-trollope_the-way-we-live-now</meta>
